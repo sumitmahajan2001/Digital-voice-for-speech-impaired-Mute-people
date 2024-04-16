@@ -1,0 +1,11 @@
+All models are trained using cnn_model.py file. 
+..............................................................................................................................................................
+
+1.ASLModel.h5(partik)-----------------1st model----13 dec 2022-----(.9)[20]--------without-sentence---3 layers
+2.cnn_model_keras2.h5(sumit)----------2nd model----26 dec 2022-----(.63)[25]-------without-sentence---2 layers
+3.Trained_model_1.h5(sumit)-----------3rd model----14 jan 2023-----(.701)[50]------without-sentence---2 layers
+4.Trained_model_2.h5(sumit)-----------4th model----28 jan 2023-----(.9408)[50]-----with-sentence------3 layers(prediction of sentence correct)
+5.Trained_model_3.h5(sumit)-----------5th model----7 feb 2023------(.908)[20]------with-sentence------3 layers(prediction of sentence correct[26+9 sentence])
+6.training_model.h5(parikshit)--------6th model----14 feb 2023-----(.995)[50]------with-sentence------4 layers(prediction of sentence correct[26+15 sentence])
+
+...............................................................................................................................................................
